@@ -91,4 +91,4 @@ MIT License
 
 ---
 
-Made with ❤️ for sky color enthusiasts
+Made with ❤️ by Nikhil Bastikar
